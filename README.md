@@ -1,8 +1,3 @@
----
-title: 'A Breakthrough in Graph Optimization: Solving the Minimum Vertex Cover Problem'
-
----
-
 # A Breakthrough in Graph Optimization: Solving the Minimum Vertex Cover Problem
 
 [![hackmd-github-sync-badge](https://hackmd.io/RFtfR3-nQiKKYSTPonTzDA/badge)](https://hackmd.io/RFtfR3-nQiKKYSTPonTzDA)
